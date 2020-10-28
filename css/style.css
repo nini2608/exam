@@ -1,0 +1,280 @@
+.bg-image {
+    background-image: url(../img/bg-image.png);
+    background-repeat: no-repeat;
+    height: 370px;    
+    width: 100%;
+    background-size: 100%;
+    opacity: 0.8;
+    filter:drop-shadow(8px 8px 10px gray);
+    margin: 0 auto;
+    position: relative;
+}
+.bg-image:hover {
+    opacity: 1.0;
+  }
+.saxeli {
+    font-size: 20px;
+    color: white;
+    padding: 30px 139px;
+    font-weight: bold;
+    width: 550px;
+}
+.nav {    
+    width: 100%;
+    margin-left: 400px;
+}
+ul {
+    display: flex;
+}
+.nav-a {
+    color: white;
+    margin: 25px; 
+}
+.nav-a:hover {
+   color:#5863F8;
+}
+.wraper {    
+    display: flex;    
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 100%;
+}
+.satauri {
+    font-size: 50px;
+    color: white;
+    padding: 70px 120px ;
+    font-weight: bold;
+}
+.home, .about {
+    font-size: 20px;
+    color: white;
+}
+.box {
+    display: flex;    
+    justify-content: baseline;
+    margin: 0 130px;
+}
+.divider {
+    height: 27px;
+    width: 2px;
+    background-color:white;
+    margin: 0 30px;
+}
+.paragraph {
+    margin: 50px 130px;
+}
+.satauri1 {
+    font-size: 20px;
+    color: #5863F8;
+    font-weight: bold;
+    
+}
+.text {
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    width: 400px;
+    margin-top: 20px;   
+}
+.teqsti {
+    font-size: 15px;
+    color: black;
+    width: 350px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn {
+    width: 184px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #5863F8;
+    border: none;
+    margin-top: 40px;
+}
+.btn:hover {
+	background-color: rgb(133, 78, 78);
+}
+.second {
+    display: flex;    
+    align-items: center;
+    width: 100%;   
+}
+
+.foto {
+    margin: 30px 0px 0 300px;
+    align-items: unset;
+}
+.img33 {   
+    margin: 10px 0px;    
+}
+.img3 {
+    width: 525px;
+}
+.background {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 612px;
+    background-size: 100%;
+    margin: 0 auto;      
+    margin-top: 90px;
+    position: relative;
+    filter:contrast(90%);
+}
+.satauri2 {
+    font-size: 20px;
+    color: #5863F8;
+    font-weight: bold;    
+}
+.text1 {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    width: 300px;
+}
+.paragraph1 {
+    padding: 100px;
+    width: 100%;
+}
+.third {
+    width: 100%;
+}
+.box1 {
+    display: flex;
+    justify-content: space-evenly;    
+    width: 100%;       
+}
+.yuti {
+    width: 260px;
+    height: 260px;
+    background-color: whitesmoke;
+}
+.wre {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: #5863F8;
+    margin: 30px 100px;
+}
+.hlogo {
+    margin: 10px 12px;
+}
+.boxtext {
+    font-size: 18px;
+    font-weight: bolder;
+    width: 150px;
+    margin: 0px 60px;
+}
+.boxteqsti {
+    color: #707070;
+    margin: 15px 30px;
+    width: 250px;
+}
+.profili {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    justify-content: space-between;
+}
+.saxeli1 {
+    font-size: 15px;
+    font-weight: bolder;
+    margin-right: 200px;
+}
+.komentari {
+    width: 350px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.fotofoto {
+    font-size: 20px;
+    color: #5863F8;
+    font-weight: bold;
+    margin: 50px 50px 0 100px;
+}
+.section3 {
+    margin: 80px 0;
+    width: 100%;
+}
+.fotosat {
+    font-size: 50px;
+    color: black;
+    width: 500px;
+    font-weight: bold;    
+    margin: 10px 50px 0 100px;
+}
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    margin-right: 10px;    
+}
+.footer {
+    background-color: #121212;
+    background-repeat: no-repeat;
+    height: 355px;
+    margin: 0 auto;
+    width: 100%;   
+    position: relative;
+}
+.footersat {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;    
+}
+.footertext {
+    color: white;
+    font-weight: bold;
+    width: 280px; 
+    margin: 25px 0;   
+}
+.footerfooter {
+    display: flex;
+    justify-content: space-evenly;    
+    width: 100%;     
+}
+.footerbox {
+    margin: 90px 0px 0 0px ;
+}
+.icons {    
+    font-size: 30px;
+    margin: 20px 180px;    
+}
+.icon {
+    color: white;
+}
+.fa-google-plus, .fa-twitter, .fa-facebook  {
+    margin: 10px;
+}
+.fa-facebook:hover {
+    color: teal;
+}
+.fa-twitter:hover {
+    color: teal;
+}
+.fa-google-plus:hover {
+    color: teal;
+}
+.footnav {
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px; 
+}
+.footnavtext {
+    color: white;
+    font-weight: bold;
+}
+.footnavtext2{
+    color:#5863F8;
+    margin-top: 15px;
+}
+.footnavtext3{
+    color:white;
+    margin-top: 25px;
+    font-weight: bold;
+}
+body {
+    font-family: "BPG Phone Sans", sans-serif;
+}

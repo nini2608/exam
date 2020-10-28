@@ -1,0 +1,52 @@
+/*@media (max-width: 1200px) {
+     .bg-image,
+     .second,
+     .third,
+     .box1,
+     .section3 {
+    width: 800px;
+}
+@media (max-width: 830px) {
+    .bg-image,
+    .second,
+    .third,
+    .box1,
+    .section3 {
+    width: 700px;   
+}
+@media (max-width: 768px) {
+    .bg-image,
+    .second,
+    .third,
+    .box1,
+    .section3 {
+    width: 600px;   
+}
+@media (max-width: 420px) {
+    .bg-image,
+    .second,
+    .third,
+    .box1,
+    .section3 {
+    width: 350px;   
+}
+@media (max-width: 1200px) {
+    .bg-image {       
+    margin-bottom: 30px;   
+}*/
+@media (max-width: 830px) {
+    .bg-image,
+    .second,
+    .third,
+    .box1,
+    .banner,
+    .section3 {
+    flex-direction: column; 
+    align-items: center; 
+}
+@media (max-width: 830px) {
+    .nav,
+    .second,
+    .section3 {
+        display: none;
+}
